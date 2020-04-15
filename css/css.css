@@ -1,0 +1,24 @@
+#corpo{
+    background-image: url(Copa-do-Mundo-R%C3%BAssia-2018-Mascote-Zabivaka-PNG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#titulo{
+    color: #E61A66;
+    font-size: 50px;
+}
+
+#subtitulo{
+    color: #E61A66;
+    font-size: 40px;
+}
+
+
+.tabela{
+    background-color: ghostwhite;
+    color: black;
+    font-size: 30px;
+    table-layout: center;
+}
